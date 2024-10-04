@@ -1,3 +1,4 @@
+#main
 import output as o
 def main():
     name = input("Input your name: ")
